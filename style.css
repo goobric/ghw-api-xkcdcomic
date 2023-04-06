@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+#comic-container {
+	text-align: center;
+	margin-top: 50px;
+}
+
+#comic-img {
+	max-width: 100%;
+	height: auto;
+}
+
+#comic-alt {
+	font-style: italic;
+}
+
+button {
+	font-size: 16px;
+	padding: 10px 20px;
+	margin: 20px 10px;
+	border-radius: 5px;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3E8E41;
+}
